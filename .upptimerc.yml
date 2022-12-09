@@ -9,8 +9,8 @@ sites:
     url: https://mi.nekozuki.me
   - name: Blog
     url: https://blog.nekozuki.me
- 
- assignees:
+
+assignees:
   - AyumuNekozuki
 
 status-website:
