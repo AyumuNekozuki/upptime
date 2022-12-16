@@ -4,19 +4,19 @@
     "url": "https://mstdn.nekozuki.me",
     "icon": "https://icons.duckduckgo.com/ip3/mstdn.nekozuki.me.ico",
     "slug": "mastodon",
-    "status": "down",
-    "uptime": "96.42%",
-    "uptimeDay": "74.18%",
-    "uptimeWeek": "96.31%",
-    "uptimeMonth": "96.42%",
-    "uptimeYear": "96.42%",
-    "time": 1042,
-    "timeDay": 954,
-    "timeWeek": 1019,
-    "timeMonth": 1042,
-    "timeYear": 1042,
+    "status": "up",
+    "uptime": "91.63%",
+    "uptimeDay": "36.38%",
+    "uptimeWeek": "90.91%",
+    "uptimeMonth": "91.63%",
+    "uptimeYear": "91.63%",
+    "time": 1057,
+    "timeDay": 971,
+    "timeWeek": 1048,
+    "timeMonth": 1057,
+    "timeYear": 1057,
     "dailyMinutesDown": {
-      "2022-12-16": 372
+      "2022-12-16": 917
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 890,
-    "timeDay": 942,
-    "timeWeek": 885,
-    "timeMonth": 890,
-    "timeYear": 890,
+    "time": 898,
+    "timeDay": 969,
+    "timeWeek": 951,
+    "timeMonth": 898,
+    "timeYear": 898,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 552,
-    "timeDay": 1870,
-    "timeWeek": 642,
-    "timeMonth": 552,
-    "timeYear": 552,
+    "time": 517,
+    "timeDay": 199,
+    "timeWeek": 608,
+    "timeMonth": 517,
+    "timeYear": 517,
     "dailyMinutesDown": {}
   }
 ]
