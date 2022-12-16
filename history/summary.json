@@ -4,19 +4,19 @@
     "url": "https://mstdn.nekozuki.me",
     "icon": "https://icons.duckduckgo.com/ip3/mstdn.nekozuki.me.ico",
     "slug": "mastodon",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1105,
-    "timeDay": 1170,
-    "timeWeek": 1105,
-    "timeMonth": 1105,
-    "timeYear": 1105,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 1073,
+    "timeDay": 978,
+    "timeWeek": 1073,
+    "timeMonth": 1073,
+    "timeYear": 1073,
     "dailyMinutesDown": {
-      "2022-12-16": 0
+      "2022-12-16": 8
     }
   },
   {
