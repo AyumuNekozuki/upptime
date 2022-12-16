@@ -1,7 +1,7 @@
 url: https://mstdn.nekozuki.me
-status: up
-code: 200
-responseTime: 786
-lastUpdated: 2022-12-16T07:15:51.642Z
+status: down
+code: 500
+responseTime: 610
+lastUpdated: 2022-12-16T07:22:39.552Z
 startTime: Fri Dec 09 2022 09:11:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
