@@ -5,13 +5,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/mstdn.nekozuki.me.ico",
     "slug": "mastodon",
     "status": "up",
-    "uptime": "93.97%",
-    "uptimeDay": "91.36%",
+    "uptime": "94.26%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "95.65%",
-    "uptimeMonth": "93.97%",
-    "uptimeYear": "93.97%",
+    "uptimeMonth": "94.26%",
+    "uptimeYear": "94.26%",
     "time": 1439,
-    "timeDay": 1078,
+    "timeDay": 1176,
     "timeWeek": 2080,
     "timeMonth": 1439,
     "timeYear": 1439,
@@ -29,9 +29,9 @@
     "url": "https://mi.nekozuki.me",
     "icon": "https://icons.duckduckgo.com/ip3/mi.nekozuki.me.ico",
     "slug": "misskey",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -40,7 +40,9 @@
     "timeWeek": 497,
     "timeMonth": 763,
     "timeYear": 763,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-27": 0
+    }
   },
   {
     "name": "Blog",
